@@ -24,7 +24,7 @@ The frontend will be available at http://localhost:3000 by default.
 ## Update the databse creditials 
 ## run the migtration script 
 9. npm run migrations
-## start the node server 
+## Start the node server 
 10. npm start
 The backend server will typically run on http://localhost:5000 
 
@@ -35,3 +35,9 @@ The backend server will typically run on http://localhost:5000
 **Layout Adjustments**: Minor layout changes were made during development. Notably, the upload modal was expanded to full width to accommodate Excel files with more than eight columns, ensuring better data visualization.
 
 **Column Mapping**: A column mapping feature is included at the end to facilitate easy identification and alignment of data fields.
+
+
+
+https://github.com/user-attachments/assets/9c9933cf-90eb-4e9e-afac-c4d73e7a2ae8
+
+
