@@ -3,7 +3,7 @@ import { fieldAliases } from './util/fieldAliases';
 
 export default function Table({ data }) {
     return (
-        <div className="max-h-[400px] border rounded-md">
+        <div className="max-h-[500px] overflow-y-auto border rounded-md scroll-mx-1">
             <table className="w-full bg-white rounded-md shadow ">
                 <thead className="bg-gray-200 text-left sticky top-0 z-10">
                     <tr>
